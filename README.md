@@ -1,5 +1,5 @@
 # offenderhunt
-The following lines of code is integrating a Bash script that interacts with the San Antonio Police Department API for sex offender data and utilizes a Python facial recognition program, The end result and goal is to create a deployment on Ray-Ban META Smart Glasses, which involves several layers (yet to be implemented in this growing project).
+The following lines of code is integrating Bash script that interacts with the San Antonio Police Department API for sex offender data and utilizes a Python facial recognition program, The end result and goal is to create a deployment on Ray-Ban META Smart Glasses, which involves several layers (yet to be implemented in this growing project).
 
 ### Prerequisites
 
