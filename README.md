@@ -92,4 +92,4 @@ To run this on Ray-Ban META Smart Glasses, you would typically follow these step
 - **Privacy Concerns**: Be mindful of privacy issues regarding the use of facial recognition and handling sensitive data like sex offender lists.
 - **Performance**: Ensure that the processing load is manageable on the hardware of the glasses. You may need to optimize image processing or consider cloud processing if performance is inadequate.
 
-This framework provides a starting point. You'll need to refine it based on specific requirements and test it thoroughly to ensure it works effectively on the device.
+This framework provides a starting point. For META implementation, refine it based on specific requirements and test it thoroughly to ensure it works effectively on the device.
